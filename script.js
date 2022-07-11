@@ -26,7 +26,12 @@ $(function()
 		url: "https://www.youtube.com/watch?v=ubmt9fx34Tw",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
-	
+	var songs = [{
+		artist: "Dig Didzay",
+		name: "Nếu Anh Đi (Cover)",
+		url: "https://www.youtube.com/watch?v=ubmt9fx34Tw",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}];
 	function shuffle(a) {
 		var j, x, i;
 		for (i = a.length - 1; i > 0; i--) {
